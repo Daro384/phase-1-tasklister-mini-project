@@ -12,6 +12,8 @@ body {
 
 button {
   font-size: 7px;
+  margin: 10px;
+  padding: 5px;
 }
 
 #main-content {
